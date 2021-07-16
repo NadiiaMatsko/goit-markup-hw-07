@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    align-items: center;
+  }
+  
+  .head {
+    border-bottom: 1px solid #ECECEC;
+  }
+  
+  .list {
+    list-style-type: none;
+  }
+  
+  .begin {
+    color: var(--accent-color) ;
+  }

@@ -1,0 +1,28 @@
+body {
+    background: var(--common-bg-color);
+    color: var(--main-text-color);
+    font-family: Roboto;
+    letter-spacing: 0.03em;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+margin: 0;
+padding: 0;
+}
+
+img {
+display: block;
+max-width: 100%;
+}
